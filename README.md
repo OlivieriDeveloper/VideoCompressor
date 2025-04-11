@@ -77,7 +77,7 @@ Contributions are welcome! To contribute:
 
 ## Author
 
-[Leonardo Olivieri] - [leolivieri1910@gmail.com]
+Leonardo Olivieri - leolivieri1910@gmail.com
 
 ## Acknowledgments
 
