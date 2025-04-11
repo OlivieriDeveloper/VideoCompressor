@@ -19,6 +19,7 @@ VideoCompressor is a desktop application for video file compression, developed i
 - FFmpeg (included in the package)
 - PyQt5
 - pymediainfo
+- ffmpeg installed (or you can download the ffmpeg.exe and move into ``./ffmpeg/bin/ffmpeg.exe``)
 
 ## Installation
 
