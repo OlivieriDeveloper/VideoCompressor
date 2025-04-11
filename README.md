@@ -16,10 +16,9 @@ VideoCompressor is a desktop application for video file compression, developed i
 
 - Windows 10 or later
 - Python 3.7 or later
-- FFmpeg (included in the package)
 - PyQt5
 - pymediainfo
-- ffmpeg installed (or you can download the ffmpeg.exe and move into ``./ffmpeg/bin/ffmpeg.exe``)
+- FFmpeg installed (or you can download the ffmpeg.exe and move into ``./ffmpeg/bin/ffmpeg.exe``)
 
 ## Installation
 
